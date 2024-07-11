@@ -1,1 +1,40 @@
-{"MekoAssist":{"Bezier":{"LinearCurveX":"0.685","LinearCurveY":"0.55"},"Binds":{"Keybind":"XButton1","Pause":"Esc","Reload":"R"},"Color":{"Saturation":"77"},"Easing":{"Prediction":{"Enabled":"0","Mode":"Ideal","PredictionX":"5","PredictionY":"6"},"SmoothingDividerX":"105","SmoothingDividerY":"100","SmoothingReplicatorX":"2.6","SmoothingReplicatorY":"2.6","SmoothnessX":"50","SmoothnessY":"71"},"FOV":{"FOVOffsetX":"4.24","FOVOffsetY":"5.3"},"Misc":{"AimbotUpdateMS":"1000","AimbotUpdateTick":"1000","CameraToGunFOV":"70","FlickTime":"0"}}}
+{
+    "MekoAssist": {
+        "Binds": {
+            "Keybind": "XButton2",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 12
+        },
+        "Bezier": {
+            "LinearCurveX": 0.15,
+            "LinearCurveY": 0.15
+        },
+        "Easing": {
+            "SmoothnessX": 60,
+            "SmoothnessY": 60,
+            "SmoothingReplicatorX": 2.6,
+            "SmoothingReplicatorY": 2.6,
+            "SmoothingDividerX": 105,
+            "SmoothingDividerY": 100,
+            "Prediction": {
+                "Enabled": true,
+                "Mode": "Ideal",
+                "PredictionX": 6,
+                "PredictionY": 6
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 1000,
+            "AimbotUpdateMS": 1000,
+            "CameraToGunFOV": 82,
+            "FlickTime" : 0
+        },
+        "FOV": {
+            "FOVOffsetX": 3,
+            "FOVOffsetY": 3
+        }
+    }
+}
